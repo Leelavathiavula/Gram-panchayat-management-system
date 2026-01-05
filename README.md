@@ -1,8 +1,4 @@
 # Gram-panchayat-management-system
-Here is a **clean, professional, GitHub-ready `README.md`** you can directly paste into your repository.
-It follows standard GitHub formatting and looks good for **academic + placement projects**.
-
----
 
 # Citizen Database Management System
 
@@ -11,7 +7,7 @@ The project demonstrates real-world use of **relational databases**, **SQL queri
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This system connects a Java application to a MySQL database and executes multiple queries related to:
 
@@ -26,7 +22,7 @@ It is designed as an **academic project** simulating an **e-governance / Panchay
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Java**
 * **JDBC**
@@ -35,7 +31,7 @@ It is designed as an **academic project** simulating an **e-governance / Panchay
 
 ---
 
-## 🗄 Database Tables
+##  Database Tables
 
 * `citizens`
 * `households`
@@ -46,7 +42,7 @@ It is designed as an **academic project** simulating an **e-governance / Panchay
 
 ---
 
-## ✨ Features & Queries Implemented
+##  Features & Queries Implemented
 
 * Retrieve citizens owning **more than 1 acre of land**
 * Identify **female citizens** from low-income households
@@ -61,7 +57,7 @@ It is designed as an **academic project** simulating an **e-governance / Panchay
 
 ---
 
-## ⚙️ Project Structure
+##  Project Structure
 
 ```bash
 CitizenDatabase.java
@@ -74,7 +70,7 @@ CitizenDatabase.java
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Create the MySQL database and required tables
 2. Update database credentials in the code:
@@ -94,22 +90,13 @@ CitizenDatabase.java
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Hands-on experience with **JDBC**
 * Writing **complex SQL queries**
 * Understanding **relational database design**
 * Backend development for **e-governance systems**
 
----
 
-## 📚 Use Case
-
-This project is suitable for:
-
-* Academic submissions
-* Database & backend learning
-* Government / Panchayat data management simulations
-* Resume & GitHub portfolio showcase
 
 
